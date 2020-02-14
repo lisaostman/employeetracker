@@ -8,4 +8,4 @@ This works on the console alongside mySQL to keep track of employees
  * View utilized budgets, update employees, view by department or role
  * Uses mySQL for the database
 
-![Working Gif](https://github.com/lisaostman/employeetracker/working.gif)
+![Working Gif](https://github.com/lisaostman/employeetracker/blob/master/working.gif)
